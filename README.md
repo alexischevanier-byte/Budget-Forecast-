@@ -75,15 +75,18 @@ This represents a realistic planning target used in business environments.
 
 ### Revenue Trend
 
-(Insert image here)
+<img width="548" height="415" alt="image" src="https://github.com/user-attachments/assets/146d4a03-c657-4a80-982d-d6ca2f2ffb33" />
+
 
 ### Actual vs Predicted Revenue
 
-(Insert image here)
+<img width="555" height="423" alt="image" src="https://github.com/user-attachments/assets/d3d596e7-6a98-4eab-9c97-6bdfe786daa2" />
+
 
 ### Forecast vs Budget
 
-(Insert image here)
+<img width="556" height="423" alt="image" src="https://github.com/user-attachments/assets/12357532-139d-42dd-8ac4-74868a2692f6" />
+
 
 ---
 
