@@ -114,8 +114,7 @@ By understanding historical behavior and forecasting future performance, busines
 
 ## 📁 Project Structure
 
-* `forecast_analysis.ipynb` → Main notebook with full analysis and model
-* `images/` → Visualizations used in the project
+* `B&F.ipynb` → Main notebook with full analysis and model
 
 ---
 
